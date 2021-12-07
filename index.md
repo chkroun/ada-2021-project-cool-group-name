@@ -8,6 +8,11 @@ These guidelines would constitute very interesting tools for politicians and inf
 ### The Quotebank
 
 -> where does it come from? How is it useful to answer our question ?
+
 -> what is in it? (what features we extract from it (speaker -> age, nationality,.../ quote text -> word count, topic, sentiment analysis,...) and how it can be useful to answer our question) (we can show plots from EDA etc...)
 
-### Predict
+### Predict the occurences of a quote depending on the extracted features
+
+-> Linear Regression using the features, feature selection, analysis of the coefficients
+
+### Conclusion
