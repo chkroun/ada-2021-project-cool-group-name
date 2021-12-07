@@ -8,8 +8,27 @@ These guidelines would constitute very interesting tools for politicians and inf
 ### The Quotebank
 
 -> where does it come from? How is it useful to answer our question ?
+-> what is in it? raw data
 
--> what is in it? (what features we extract from it (speaker -> age, nationality,.../ quote text -> word count, topic, sentiment analysis,...) and how it can be useful to answer our question) (we can show plots from EDA etc...)
+### Extracting features from the quotebank
+
+-> How do we extract features that can be useful to answer our question, how do we enrich the raw data ? ((speaker -> age, nationality,.../ quote text -> word count, topic, sentiment analysis,...)) (we can show plots from EDA etc...)
+
+#### What is a Viral Quote?
+
+(num_occurences)
+
+#### Speakers' Features
+
+(Age, Gender, Occupation, Nationality, Ethnicity, Religion, Different Features Co-occurence, Overall Number of Quotes with Missing Speaker Information)
+
+#### Quotes' Features
+
+Length of Quotes, 
+
+Extraction and Visualization of the Quote Topics, Preprocessing of Quotebank to remove unusable quotes and extract features, Visualize extracted topics
+
+Sentiment analysis
 
 ### Predict the occurences of a quote depending on the extracted features
 
