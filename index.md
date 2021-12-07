@@ -1,8 +1,9 @@
-## What makes a quote viral ?
+## Increasing the chances of your speech to go viral: an interrogation on what helps catch the attention of modern day fickle newsreaders 
 
-You can use the [editor on GitHub](https://github.com/chkroun/ada-2021-project-cool-group-name/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In a world where the internet allows speaking to millions of people, we want to identify what factors can be linked to someone effectively reaching huge audiences. 
+To measure how many people are reached by a quote we will use the number of repetition of said quote in newspapers. 
+By analysing the characteristics of extremely viral quotes we want to try building guidelines to optimize the chance of a quote reaching a wider range of people. 
+These guidelines would constitute very interesting tools for politicians and influencers as they would allow to better choose the topic and the speaker delivering a concept to increate the likelihood of being heavily quoted. 
 
 ### Markdown
 
