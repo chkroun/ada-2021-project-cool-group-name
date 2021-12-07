@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## What makes a quote viral ?
 
 You can use the [editor on GitHub](https://github.com/chkroun/ada-2021-project-cool-group-name/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
