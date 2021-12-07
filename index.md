@@ -1,4 +1,4 @@
-## Increasing the chances of your speech to go viral: an interrogation on what helps catch the attention of modern day fickle newsreaders 
+## What makes a quote in the newspaper viral ?
 
 In a world where the internet allows speaking to millions of people, we want to identify what factors can be linked to someone effectively reaching huge audiences. 
 To measure how many people are reached by a quote we will use the number of repetition of said quote in newspapers. 
